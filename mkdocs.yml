@@ -1,0 +1,5 @@
+﻿site_name: God of the Math
+nav:
+  - Home: index.md
+  - Anchor IDs: anchor-ids.md
+  - Data: data.md
